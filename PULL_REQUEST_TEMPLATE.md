@@ -1,19 +1,19 @@
 ## Tipo de actividad
 
-- [x] Feature (nueva acción)
-- [x] Change (actualizada de una feature)
-- [x] Docs (documentación / comentarios en el código / readme.md
-- [x] Fix (reparar)
+- [ ] Feature (nueva acción)
+- [ ] Change (actualizada de una feature)
+- [ ] Docs (documentación / comentarios en el código / readme.md
+- [ ] Fix (reparar)
 
 ## Se emplea testing
 
-- [x] Si
-- [x] No
+- [ ] Si
+- [ ] No
 
 ## La actividad esta estable
 
-- [x] Si
-- [x] No
+- [ ] Si
+- [ ] No
 
 ## Descripción de la actividad, máximo 300 caracteres
 
